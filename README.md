@@ -2,6 +2,8 @@
 
 This project is built using VueJS 3, Vite and SCSS.
 
+**It is recommended to use node version 19**
+
 ## Requirements
 
 - Display the weather conditions for the following cities:
