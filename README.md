@@ -51,3 +51,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## Screenshot
+
+![Screenshot](docs/image.png)
